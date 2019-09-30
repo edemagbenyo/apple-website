@@ -90,8 +90,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background:
-    #fff
+  background: #fff
     url("https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero_2x.jpg")
     0 -700px no-repeat;
   background-size: cover;
@@ -130,6 +129,10 @@ main {
   display: flex;
 }
 
+footer a {
+  color: rgba(0, 183, 255, 0.719);
+}
+
 .featured a {
   width: 25%;
 }
@@ -141,10 +144,6 @@ footer {
   font-size: 11px;
   margin: auto;
   color: #999;
-}
-
-footer a {
-  color: rgba(0, 183, 255, 0.719);
 }
 
 footer .info {
