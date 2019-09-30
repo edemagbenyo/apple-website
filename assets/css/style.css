@@ -58,12 +58,14 @@ nav ul li:last-child {
 nav ul li:last-child form {
   position: relative;
 }
+
 nav ul li:last-child input {
   background: transparent;
   border: 1px solid #ccc;
   border-radius: 20px;
   padding: 5px;
 }
+
 nav ul li:last-child img {
   position: absolute;
   left: 0;
