@@ -3,6 +3,14 @@
     box-sizing: border-box;
     padding: 0;
 }
+
+html {
+    width: 100%;
+    font-size: 20px;
+    font-family: lato, nyt-imperial, georgia, "times new roman", times, serif;
+    background-color: #fff;
+  }
+  
 main{
     height: 400px;
     background: #bc1223 url("https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero_2x.jpg");
