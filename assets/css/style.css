@@ -98,8 +98,8 @@ body {
   background-size: cover;
 }
 
-main{
-  width:100%;
+main {
+  width: 100%;
 }
 
 .intro {
@@ -134,8 +134,8 @@ main{
 /* Featured */
 .featured {
   display: flex;
-  width:100%;
-  margin-bottom:-5px;
+  width: 100%;
+  margin-bottom: -5px;
 }
 
 footer a {
@@ -153,7 +153,7 @@ footer {
   font-size: 11px;
   margin: auto;
   color: #999;
-  background: #FFF;
+  background: #fff;
 }
 
 footer .info {
