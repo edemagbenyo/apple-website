@@ -20,10 +20,10 @@ Open your terminal in your working folder and execute the following command
 
 
 Here is the link to the live version of this project	
-[here]()
+[here](https://rawcdn.githack.com/edemagbenyo/apple-website/d25b3b59431890e90f29e77aade762d5af467810/index.html)
 
 
 ## Things learnt
 
-Positioning
+Positioning(float and flex)
 Background(Images, Gradient)
