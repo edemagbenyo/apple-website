@@ -156,6 +156,14 @@ footer div.link ul li {
   padding: 0 5px;
 }
 
+footer div.link ul li:last-child {
+  border: none;
+}
+
+footer div.link ul li:last-child img {
+  width: 15px;
+}
+
 div.copyright {
   width: 100%;
   display: flex;
