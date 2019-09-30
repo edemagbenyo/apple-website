@@ -55,7 +55,7 @@ nav ul li:first-child {
   border-left: none;
 }
 
-.featured div img {
+.featured a img {
   width: 100%;
   border: 1px solid #fff;
 }
@@ -130,7 +130,7 @@ main {
   display: flex;
 }
 
-.featured div {
+.featured a {
   width: 25%;
 }
 
